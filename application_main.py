@@ -31,6 +31,6 @@ if __name__ == '__main__':
 
     aggregated_results.show(50)
 
-    #print(aggregated_results.collect())
+    #print the(aggregated_results.collect())
 
     logger.info("this is the end of main")
